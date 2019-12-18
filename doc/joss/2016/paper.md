@@ -19,6 +19,7 @@ authors:
     affiliation: 1
   - name: Nicholas Furlotte
     orcid: 0000-0002-9096-6276
+    affiliation: 1
   - name: Harm Nijveen
     orcid: 0000-0002-9167-4945
     affiliation: 3
