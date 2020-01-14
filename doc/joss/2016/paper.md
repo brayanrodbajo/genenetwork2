@@ -7,33 +7,47 @@ tags:
 authors:
   - name: Zachary Sloan
     orcid: 0000-0002-8099-1363
-    affiliation: University of Tennessee Health Science Center, USA
+    affiliation: 1
   - name: Danny Arends
     orcid: 0000-0001-8738-0162
-    affiliation: Humboldt University, Berlin, Germany
+    affiliation: 2
   - name: Karl W. Broman
     orcid: 0000-0002-4914-6671
-    affiliation: University of Wisconsin, USA
+    affiliation: 4
   - name: Arthur Centeno
     orcid: 0000-0003-3142-2081
-    affiliation: University of Tennessee Health Science Center, USA
+    affiliation: 1
   - name: Nicholas Furlotte
     orcid: 0000-0002-9096-6276
+    affiliation: 1
   - name: Harm Nijveen
     orcid: 0000-0002-9167-4945
-    affiliation: Wageningen University, The Netherlands
+    affiliation: 3
   - name: Lei Yan
     orcid: 0000-0001-5259-3379
-    affiliation: University of Tennessee Health Science Center, USA
+    affiliation: 1
   - name: Xiang Zhou
     orcid: 0000-0002-4331-7599
-    affiliation: University of Michigan
+    affiliation: 5
   - name: Robert W. Williams
     orcid: 0000-0001-8924-4447
-    affiliation: University of Tennessee Health Science Center, USA
+    affiliation: 1
   - name: Pjotr Prins
     orcid: 0000-0002-8021-9162
-    affiliation: University Medical Center Utrecht, The Netherlands, University of Tennessee Health Science Center, USA
+    affiliation: 6, 1
+affiliations:
+ - name: University of Tennessee Health Science Center, USA
+   index: 1
+ - name: Humboldt University, Berlin, Germany
+   index: 2
+ - name: Wageningen University, The Netherlands
+   index: 3
+ - name: University of Wisconsin, USA
+   index: 4
+ - name: University of Michigan
+   index: 5
+ - name: University Medical Center Utrecht, The Netherlands
+   index: 6
 date: 29 May 2016
 bibliography: paper.bib
 ---
